@@ -1,6 +1,6 @@
 # nativecode_location
 
-A new Flutter project.
+A new Flutter plugin for fetching location coordinates from GPS/Network/Fused for better performance.
 
 ## Getting Started
 
